@@ -1,0 +1,3 @@
+repository "Game Jam/Game Jam@1375936019739@cloud"
+  path "/"
+    smartbranch "/main"
